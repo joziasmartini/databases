@@ -1,0 +1,3 @@
+
+O website Livra pertence a uma nova empresa do ramo da internet que visa fornecer uma alternativa as plataformas do mercado para escritores e blogueiros. O usuário da internet, muitas vezes escritor ou blogueiro, conhece a plataforma e clica em cadastrar-se. No cadastro, é solicitado nome de usuário, email e senha. Após o cadastro, ele pode criar textos utilizando as ferramentas fornecidas pelo site, os quais possuem um título, texto, data de criação, número de caracteres e id (em letras, para link público). Paralelo a isso, o usuário poderá acessar outras configurações da plataforma, como troca de foto de perfil, background, tamanho de fonte e upgrade para conta premium.
+

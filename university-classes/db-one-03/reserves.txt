@@ -1,0 +1,18 @@
+reserve 1:
+boat: 1 - black shark  length: 40 ft  weight: 100 k horses: 13 year: 2010 #sails: 2 type: cutter
+sailor: 1 - Alan Turing  	email: turing@gmail.com  birth: 23/06/1912 level: senior
+reserve: 10/10/2010
+returned: 10/10/2010 17:00h
+
+reserve 2:
+boat: 4 - white swan  length: 34 ft  weight: 85 k horses: 15 year: 2012 #sails: 3 type: schooner
+sailor: 1 - Edgar Codd  	email: codd@gmail.com  birth: 23/08/1923 level: master
+reserve: 12/06/2011
+returned: 13/06/2011 12:00h
+
+reserve 3:
+boat: 6 - arrow  length: 15 ft  weight: 40 k horses: 20 year: 2013 #sails: 1 type: catboat
+sailor: 7 - Edsger Dijkstra  	email: dijkstra@gmail.com  birth: 11/05/1930 level: junior
+reserve: 03/09/2016
+returned: 
+ 

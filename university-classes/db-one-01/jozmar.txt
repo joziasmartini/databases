@@ -1,0 +1,11 @@
+Descrição de uma Bicicletaria
+
+
+Histórico da empresa:
+
+	O dono começou a se interessar por bicicletas ainda jovem. Teve seus primeiros trabalhos na área por volta dos 25 anos e, mais a frente, montou uma bicicletaria com sua irmã. Pouco tempo depois, mudou de residência, e em seu novo local construiu outra bicicletaria, fundada em 1996. O mesmo trabalha nela desde então atendendo em horário comercial.
+
+
+Funcionamento da empresa:
+
+	A bicicletaria vende peças e realiza concertos. Tanto para um quanto para outro, não é necessário cadastro, contanto que o pagamento e o serviço sejam feitos na hora. Caso contrário, é solicitado o nome, cpf, endereço e telefone do cliente. Após a solicitação, a bicicleta vai para a montagem/conserto. Depois, é guardada em um outro local até que o dono venha buscar. A identificação das mesmas é feita com fichas, contendo nome, data e preço. Como o negócio é pequeno, as compras e análises periódicas ainda são feitas "a olho", sem consulta a relatórios, até então inexistentes. 

@@ -1,0 +1,45 @@
+Aluno: Jozias Martini Dequi
+Matrícula: 1621100004
+
+CREATE TABLE employee (
+  id int,
+  name varchar(50),
+  bithData int,
+  salary float
+);
+
+INSERT INTO employee (id, name, bithData, salary)
+VALUES ('23', 'Roberto', '1992-05-03', '7000'),
+('24', 'Augusto', '1993-06-11', '9000'),
+('25', 'Helena', '1995-10-01', '3000'),
+('26', 'Valentina', '1987-07-07', '14000'),
+('27', 'Celeste', '1990-05-08', '8000');
+
+A)
+
+create function aumentoDez (salario float) 
+returns float as $$ 
+begin 
+  return (salario*1.1);
+end; $$ 
+language 'plpgsql';
+
+B)
+
+create function aumentoX (x int, n int) 
+returns float as $$ 
+begin 
+  select * into emp from employee where id > n;
+  return emp.salario*1.x;
+end; $$ 
+language 'plpgsql';
+
+C)
+
+create function removeUsuario () 
+returns void as $$ 
+begin 
+  return query delete employee from employee where salary > (select avg (salary) from users);
+end; $$ 
+language 'plpgsql';
+
